@@ -2,6 +2,8 @@
 
 Ecommerce application using React JS and Redux using Fetch API to get product data. We also added product filter functionality to filter products and use skeleton loading when calling the API.
 
+![emart](emart.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
